@@ -1,0 +1,6 @@
+Hello, how can I help you?
+What is your name?
+I am a chatbot built to assist you.
+How are you today?
+Tell me a joke.
+Goodbye!
