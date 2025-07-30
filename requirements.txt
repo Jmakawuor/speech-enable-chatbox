@@ -23,7 +23,6 @@ pandas==2.3.1
 pillow==11.3.0
 protobuf==6.31.1
 pyarrow==21.0.0
-PyAudio==0.2.14
 pydeck==0.9.1
 python-dateutil==2.9.0.post0
 pytz==2025.2
